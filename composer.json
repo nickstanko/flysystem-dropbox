@@ -20,7 +20,7 @@
         }
     ],
     "repositories": {
-	    "phrets": {
+	    "dropbox-api": {
 	        "type": "vcs",
 	        "url": "https://github.com/nickstanko/dropbox-api"
 	    }
